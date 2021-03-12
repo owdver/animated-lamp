@@ -19,7 +19,7 @@ async def start(c, m):
                     ),
                     InlineKeyboardButton("Project Channel", url="https://t.me/odbots"),
                 ],
-                [InlineKeyboardButton("My Father", url="https://t.me/odysseusmax")],
+                [InlineKeyboardButton("My Father", url="https://t.me/Owdver_Bot")],
             ]
         ),
     )
